@@ -82,4 +82,4 @@ Contributions to this project are welcome. Please feel free to submit pull reque
 
 ## AUTHOR
 
-Bharath Chandra
+Karthik reddy 
